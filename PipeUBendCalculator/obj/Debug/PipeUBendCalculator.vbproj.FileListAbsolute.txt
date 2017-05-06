@@ -1,0 +1,10 @@
+c:\users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\bin\Debug\PipeUBendCalculator.dll
+c:\users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\bin\Debug\PipeUBendCalculator.pdb
+c:\users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\bin\Debug\PipeUBendCalculator.xml
+c:\users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\obj\Debug\PipeUBendCalculator.MainForm.resources
+c:\users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\obj\Debug\PipeUBendCalculator.Resources.resources
+c:\users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\obj\Debug\PipeUBendCalculator.vbproj.GenerateResource.Cache
+c:\users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\obj\Debug\PipeUBendCalculator.dll
+c:\users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\obj\Debug\PipeUBendCalculator.xml
+c:\users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\obj\Debug\PipeUBendCalculator.pdb
+C:\Users\cmackay\documents\visual studio 2012\Projects\PipeUBendCalculator\PipeUBendCalculator\obj\Debug\PipeUBendCalculator.vbprojResolveAssemblyReference.cache
